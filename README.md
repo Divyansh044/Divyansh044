@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*M50IPKZz58Fyy178.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*M50IPKZz58Fyy178.gif)
 <h1 align="center">Hi 👋, I'm Divyansh Bangwal</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
