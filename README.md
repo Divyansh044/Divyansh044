@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning And Artificial Intelligence**
 
-- 💬 Ask me about **Machine learning and Front end development**
+- 💬 Ask me about **Machine learning and Back end development**
 
 - 📫 How to reach me **divyanshbangwal@gmail.com**
 
